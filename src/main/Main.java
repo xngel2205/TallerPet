@@ -1,6 +1,5 @@
 
 // Luis Angel Araujo Solarte
-//Jorge Gutierrez
 
 package main;
 
